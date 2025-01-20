@@ -5,9 +5,10 @@ Python scripts for automating AWS Kubernetes security tasks. Each script is desi
 **Usage**
 
 1. **Install Required Libraries:**
-  ...bash
-  pip install boto3 kubernetes
+    ```bash
+    pip install boto3 kubernetes
 
-2. ***Run Scripts:**
-  ...bash
-  Ensure you have AWS credentials and Kubernetes access configured (~/.kube/config for kubeconfig).
+2. **Run Scripts**
+    ```bash
+    Ensure you have AWS credentials and Kubernetes access configured (~/.kube/config for kubeconfig).
+
